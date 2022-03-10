@@ -4,7 +4,7 @@ Microprogramming project and laboratories from Digital Circuits course
 ## Project
 
 Design a digital circuit utilising integrated circuit logic in order to perform addition of numbers.
-Project was created and simulated in Xilinx ISE. Functional blocks like adders, condition blocks, registers, bit shifters
+Project was created and simulated in Xilinx ISE. Functional blocks like adders, condition blocks, registers, bit shifters were used
 
 ### Laboratory contents
 Furthermore, following laboratories were completed:
