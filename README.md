@@ -12,4 +12,5 @@ Furthermore, following laboratories were completed:
 1. Karnaugh map combinatorial circuit design
 2. Counter design using JK flip-flops
 3. Sequential asynchronous detector of clock pulse edge
+
 Other labs were regarding above-mentioned project
